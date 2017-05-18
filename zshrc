@@ -92,7 +92,9 @@ source $ZSH/oh-my-zsh.sh
 export RAILS_MYSQL_USER="root"
 export RAILS_MYSQL_PASSWORD=""
 
+#add bundle exec adias
 
+alias be='bundle exec'
 
 alias al='alias | grep'
 
